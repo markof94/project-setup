@@ -1,7 +1,7 @@
 {
   "name": "@svarog1389/setup-koji-project",
   "version": "1.0.0",
-  "description": "A CLI to bootstrap new Koji projects on Windows",
+  "description": "A CLI to setup new Koji projects on Windows",
   "main": "src/index.js",
   "bin": {
     "@svarog1389/setup-koji-project": "bin/setup-koji-project",
