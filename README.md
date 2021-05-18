@@ -1,0 +1,1 @@
+CLI for setting up new Koji projects locally. Made it for personal use but can expand to make it more configurable for all systems.

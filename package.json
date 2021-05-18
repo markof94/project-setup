@@ -1,0 +1,32 @@
+{
+  "name": "@svarog1389/setup-koji-project",
+  "version": "1.0.0",
+  "description": "A CLI to bootstrap new Koji projects on Windows",
+  "main": "src/index.js",
+  "bin": {
+    "@svarog1389/setup-koji-project": "bin/setup-koji-project",
+    "setup-koji-project": "bin/setup-koji-project",
+    "koji-init": "bin/setup-koji-project"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "koji",
+    "withkoji",
+    "project",
+    "setup"
+  ],
+  "author": "Marko Fajler",
+  "license": "MIT",
+  "dependencies": {
+    "arg": "^5.0.0",
+    "chalk": "^4.1.1",
+    "esm": "^3.2.25",
+    "inquirer": "^8.0.0"
+  }
+}
