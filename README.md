@@ -16,7 +16,7 @@ After this data is provided, the program automatically does the following:
 - Creates `.bat` files on desktop which set the environment variables and start the local frontend and backend servers
 
 **NOTE**
-You have to have `win-node-env` installed for this to work.
+`win-node-env` has to be installed for this to work.
 
 ```
 npm i win-node-env
